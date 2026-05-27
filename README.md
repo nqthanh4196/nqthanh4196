@@ -30,7 +30,6 @@ I'm **Nguyễn Quốc Thanh**, an iOS developer passionate about building reliab
 | [proxyman-script-gen-macos](https://github.com/nqthanh4196/proxyman-script-gen-macos) | Native macOS app to generate Proxyman mock response scripts from JSON | Swift, SwiftUI | 1 |
 | [ai-code-review-bot](https://github.com/nqthanh4196/ai-code-review-bot) | Telegram bot for AI-powered code review (Claude/Gemini) | JavaScript, Node.js | 3 |
 | [proxyman-script-gen](https://github.com/nqthanh4196/proxyman-script-gen) | Web tool to generate Proxyman mock scripts from JSON | HTML, JavaScript | 1 |
-| [jira-daily-report](https://github.com/nqthanh4196/jira-daily-report) | Auto-generate daily reports from Jira | JavaScript | — |
 
 ---
 
@@ -38,11 +37,20 @@ I'm **Nguyễn Quốc Thanh**, an iOS developer passionate about building reliab
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&hide_rank=false&ring_color=4fc3f7&show_icons=true" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&hide_rank=false&ring_color=4fc3f7&show_icons=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&hide_rank=false&ring_color=4fc3f7&show_icons=true&cache_seconds=86400" alt="GitHub Stats" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nqthanh4196&theme=react&border=2d3748&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nqthanh4196&theme=react&border=2d3748&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7" />
+  <img src="https://streak-stats.demolab.com/?user=nqthanh4196&theme=react&border=2d3748&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7" alt="GitHub Streak" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&layout=compact" alt="Top Langs" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&layout=compact&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&layout=compact&cache_seconds=86400" alt="Top Langs" />
+</picture>
 
 </div>
 
