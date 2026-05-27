@@ -8,32 +8,17 @@ I'm **Nguyễn Quốc Thanh**, an iOS developer passionate about building reliab
 
 ## 🛠️ Tools & Technologies
 
-**Languages**
-
 <div>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="22" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="22" />
-</div>
-
-**Frameworks & Platforms**
-
-<div>
 <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="22" />
-</div>
-
-**Tools & Services**
-
-<div>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/SPM-FA7343?style=flat-square&logo=swift&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Proxyman-6C47FF?style=flat-square&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="22" />
 </div>
 
 ---
