@@ -25,11 +25,11 @@ I'm **Nguyễn Quốc Thanh**, an iOS developer passionate about building reliab
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | ⭐ |
-|---------|-------------|------|-----|
-| [proxyman-script-gen-macos](https://github.com/nqthanh4196/proxyman-script-gen-macos) | Native macOS app to generate Proxyman mock response scripts from JSON | Swift, SwiftUI | 1 |
-| [ai-code-review-bot](https://github.com/nqthanh4196/ai-code-review-bot) | Telegram bot for AI-powered code review (Claude/Gemini) | JavaScript, Node.js | 3 |
-| [proxyman-script-gen](https://github.com/nqthanh4196/proxyman-script-gen) | Web tool to generate Proxyman mock scripts from JSON | HTML, JavaScript | 1 |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [proxyman-script-gen-macos](https://github.com/nqthanh4196/proxyman-script-gen-macos) | Native macOS app to generate Proxyman mock response scripts from JSON | Swift, SwiftUI |
+| [ai-code-review-bot](https://github.com/nqthanh4196/ai-code-review-bot) | Telegram bot for AI-powered code review (Claude/Gemini) | JavaScript, Node.js |
+| [proxyman-script-gen](https://github.com/nqthanh4196/proxyman-script-gen) | Web tool to generate Proxyman mock scripts from JSON | HTML, JavaScript |
 
 ---
 
