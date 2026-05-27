@@ -6,15 +6,6 @@ I'm **Nguyễn Quốc Thanh**, an iOS developer passionate about building reliab
 
 ---
 
-## 📦 Pinned Repositories
-
-[![proxyman-script-gen-macos](https://github-readme-stats.vercel.app/api/pin/?username=nqthanh4196&repo=proxyman-script-gen-macos&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7)](https://github.com/nqthanh4196/proxyman-script-gen-macos)
-[![ai-code-review-bot](https://github-readme-stats.vercel.app/api/pin/?username=nqthanh4196&repo=ai-code-review-bot&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7)](https://github.com/nqthanh4196/ai-code-review-bot)
-[![proxyman-script-gen](https://github-readme-stats.vercel.app/api/pin/?username=nqthanh4196&repo=proxyman-script-gen&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7)](https://github.com/nqthanh4196/proxyman-script-gen)
-[![jira-daily-report](https://github-readme-stats.vercel.app/api/pin/?username=nqthanh4196&repo=jira-daily-report&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7)](https://github.com/nqthanh4196/jira-daily-report)
-
----
-
 ## 🛠️ Tools & Technologies
 
 **Languages**
@@ -62,11 +53,11 @@ I'm **Nguyễn Quốc Thanh**, an iOS developer passionate about building reliab
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&hide_rank=false&ring_color=4fc3f7&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&hide_rank=false&ring_color=4fc3f7&show_icons=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nqthanh4196&theme=react&border=2d3748&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nqthanh4196&theme=react&border=2d3748&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7" alt="GitHub Streak" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&layout=compact" alt="Top Langs" />
 
 </div>
 
