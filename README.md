@@ -37,7 +37,7 @@ I'm **Nguyễn Quốc Thanh**, an iOS developer passionate about building reliab
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nqthanh4196&theme=react&fire=4fc3f7&currStreakLabel=4fc3f7&sideLabels=4fc3f7&sideNums=4fc3f7&currStreakNum=4fc3f7&ring=4fc3f7)
+![GitHub Streak](https://streak-stats-1.vercel.app/?user=nqthanh4196&theme=react&fire=4fc3f7&currStreakLabel=4fc3f7&sideLabels=4fc3f7&sideNums=4fc3f7&currStreakNum=4fc3f7&ring=4fc3f7)
 
 </div>
 
