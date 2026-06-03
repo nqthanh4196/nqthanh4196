@@ -37,20 +37,11 @@ I'm **Nguyễn Quốc Thanh**, an iOS developer passionate about building reliab
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&hide_rank=false&ring_color=4fc3f7&show_icons=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&hide_rank=false&ring_color=4fc3f7&show_icons=true&cache_seconds=86400" alt="GitHub Stats" />
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&hide_rank=false&ring_color=4fc3f7&show_icons=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nqthanh4196&theme=react&border=2d3748&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7" />
-  <img src="https://streak-stats.demolab.com/?user=nqthanh4196&theme=react&border=2d3748&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7" alt="GitHub Streak" />
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com/?user=nqthanh4196&theme=react&border=2d3748&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&layout=compact&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&layout=compact&cache_seconds=86400" alt="Top Langs" />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&layout=compact)
 
 </div>
 
