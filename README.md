@@ -37,11 +37,11 @@ I'm **Nguyễn Quốc Thanh**, an iOS developer passionate about building reliab
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-tawny.vercel.app/api?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&hide_rank=false&ring_color=4fc3f7&show_icons=true)
+![GitHub Stats](https://github-readme-stats-tawny.vercel.app/api?username=nqthanh4196&theme=react&text_color=fff&title_color=4fc3f7&hide_rank=false&ring_color=4fc3f7&show_icons=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nqthanh4196&theme=react&border=2d3748&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nqthanh4196&theme=react&fire=4fc3f7&currStreakLabel=4fc3f7&sideLabels=4fc3f7&sideNums=4fc3f7&currStreakNum=4fc3f7&ring=4fc3f7)
 
-![Top Langs](https://github-readme-stats-tawny.vercel.app/api/top-langs/?username=nqthanh4196&theme=react&border_color=2d3748&text_color=fff&title_color=4fc3f7&layout=compact)
+![Top Langs](https://github-readme-stats-tawny.vercel.app/api/top-langs/?username=nqthanh4196&theme=react&text_color=fff&title_color=4fc3f7&layout=compact)
 
 </div>
 
